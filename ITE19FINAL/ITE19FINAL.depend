@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734799790 source:c:\users\shaira\onedrive\desktop\ite19final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

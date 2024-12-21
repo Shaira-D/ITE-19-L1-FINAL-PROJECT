@@ -1,0 +1,14 @@
+Processing line: MCMXCIV + MMXXIV
+Converted: MCMXCIV -> 1994, MMXXIV -> 2024
+Result: 4018
+Processing line: MMMDCCCLXXXVIII - MCDLXXXVII
+Converted: MMMDCCCLXXXVIII -> 3888, MCDLXXXVII -> 1487
+Result: 2401
+Processing line: MMCDLXXVII * MMMDCCCLXXXVIII
+Converted: MMCDLXXVII -> 2477, MMMDCCCLXXXVIII -> 3888
+Result: 9630576
+Processing line: MMDCCCLXXXVIII / XXXVII
+Converted: MMDCCCLXXXVIII -> 2888, XXXVII -> 37
+Result: 78
+Processing line: AQX + MMXXIV
+Error: Invalid Roman numeral in line.
